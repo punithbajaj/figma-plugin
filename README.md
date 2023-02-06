@@ -16,5 +16,9 @@ npm run dev
 - Open Figma
 - Click **Menu** > **Plugins** > **Development** > **Import plugin from manifest...**
   - Select `figma-plugin/manifest.json`
-- Click **Menu** > **Plugins** > **Development** > **Figma plugin **
+- Click **Menu** > **Plugins** > **Development** > **Figma plugin**
+
+- Sample image :
+
+![sample imaage](./media/img.png)
 
